@@ -1,6 +1,5 @@
 # 제 1회 산학연계 공모전
-## 매니저 매칭 여부 예측 AI 개발
-<br/>
+### 매니저 매칭 여부 예측 AI 개발
 
 ## Overview
 ![산학연계 img1](https://github.com/user-attachments/assets/b480cbb5-aebe-4484-b502-56155fc49a98)
