@@ -2,7 +2,8 @@
 ### 매니저 매칭 여부 예측 AI 개발
 
 ## Overview
-![산학연계 img1](https://github.com/user-attachments/assets/b480cbb5-aebe-4484-b502-56155fc49a98)
+![Image](https://github.com/user-attachments/assets/31702266-6ce9-4b13-a174-c4f3b8a48df7)
+![Image](https://github.com/user-attachments/assets/563874bc-35e3-4915-ba5a-5ecafd58498b)
 
 ## 1. 배경 & 목적
 
